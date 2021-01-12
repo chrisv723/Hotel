@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+}
+
+
+html body {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+#min1 {
+    width: 200px;
+}
+
+#max {
+    position: relative;
+    left: 300px;
+    top: -70px;
+    width: 200px;
+}
+
+#minLabel {
+position: relative;
+left: -150px;
+}
+
+#maxLabel {
+    position: relative;
+    left: 150px;
+    top: -70px;
+}
